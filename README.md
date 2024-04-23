@@ -1,7 +1,7 @@
 ## RocketNotes - Backend
 
 ### About
-> This is the repository for the backend project of the Rocketnotes application, which complements the frontend (link provided). Rocketnotes is a web application where users can register and create organized notes on various subjects. Each note can include a title, description, links, and tags. Additionally, the application features user profile editing capabilities, allowing users to change their avatar, name, email, and password, among other functionalities.
+> This is the repository for the backend project of the Rocketnotes application, which complements the frontend. Rocketnotes is a web application where users can register and create organized notes on various subjects. Each note can include a title, description, links, and tags. Additionally, the application features user profile editing capabilities, allowing users to change their avatar, name, email, and password, among other functionalities.
 
 
 ### Technology
